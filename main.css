@@ -87,3 +87,19 @@ section h2 {
 header h1 {
     font-size: 40px;
 }
+
+#sports {
+    background-color: rgb(189, 107, 182);
+}
+
+#economy {
+    background-color: yellowgreen;
+}
+
+#temp {
+    background-color: dimgray;
+}
+
+#politics {
+    background-color: brown;
+}
